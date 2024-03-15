@@ -6,3 +6,4 @@ const user = {
 }
 console.log(user.username)
 console.log(user.loginCount)
+console.log(user.signedIn)
